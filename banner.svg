@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Abiola Sanni - Senior Technical Product Manager">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dff3ff"/>
+      <stop offset="0.35" stop-color="#bfe6ff"/>
+      <stop offset="0.65" stop-color="#e4d4ff"/>
+      <stop offset="1" stop-color="#ffd6ec"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.2" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#8fd9ff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#8fd9ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0.8" cy="0.25" r="0.5">
+      <stop offset="0" stop-color="#ffb3e6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffb3e6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g3" cx="0.55" cy="0.95" r="0.5">
+      <stop offset="0" stop-color="#b7ffe6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#b7ffe6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g4" cx="0.1" cy="0.95" r="0.4">
+      <stop offset="0" stop-color="#c9b6ff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#c9b6ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="360" fill="url(#base)"/>
+    <rect width="1200" height="360" fill="url(#g1)"/>
+    <rect width="1200" height="360" fill="url(#g2)"/>
+    <rect width="1200" height="360" fill="url(#g3)"/>
+    <rect width="1200" height="360" fill="url(#g4)"/>
+    <g fill="none" stroke="url(#line)" stroke-width="1.2" opacity="0.8">
+      <path d="M-50 250 C 200 150, 400 350, 650 240 S 1050 130, 1250 220"/>
+      <path d="M-50 262 C 200 162, 400 362, 650 252 S 1050 142, 1250 232"/>
+      <path d="M-50 274 C 200 174, 400 374, 650 264 S 1050 154, 1250 244"/>
+      <path d="M-50 286 C 200 186, 400 386, 650 276 S 1050 166, 1250 256"/>
+      <path d="M-50 298 C 200 198, 400 398, 650 288 S 1050 178, 1250 268"/>
+      <path d="M-50 310 C 200 210, 400 410, 650 300 S 1050 190, 1250 280"/>
+      <path d="M-50 322 C 200 222, 400 422, 650 312 S 1050 202, 1250 292"/>
+      <path d="M-50 334 C 200 234, 400 434, 650 324 S 1050 214, 1250 304"/>
+      <path d="M-50 70 C 250 -20, 450 170, 700 60 S 1000 -30, 1250 50"/>
+      <path d="M-50 82 C 250 -8, 450 182, 700 72 S 1000 -18, 1250 62"/>
+      <path d="M-50 94 C 250 4, 450 194, 700 84 S 1000 -6, 1250 74"/>
+      <path d="M-50 106 C 250 16, 450 206, 700 96 S 1000 6, 1250 86"/>
+    </g>
+    <circle cx="1080" cy="300" r="34" fill="#ffffff" opacity="0.9"/>
+    <circle cx="1080" cy="300" r="24" fill="#ffffff" stroke="#1f2a44" stroke-width="2" opacity="0.95"/>
+    <circle cx="150" cy="300" r="8" fill="#ffffff" opacity="0.9"/>
+    <circle cx="180" cy="300" r="8" fill="#ffffff" opacity="0.9"/>
+    <circle cx="210" cy="300" r="8" fill="#ffffff" opacity="0.9"/>
+    <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#1f2a44">Abiola (Abi) Sanni</text>
+    <text x="600" y="196" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#2b3a5c">Senior Technical Product Manager · AI &amp; Agentic Workflows · Financial Services</text>
+    <text x="600" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3f4d6e">AI‑Native SAFe® Product Leader · London, United Kingdom</text>
+  </g>
+</svg>
