@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abiola (Abi) Sanni
+![Abiola (Abi) Sanni — Senior Technical Product Manager](banner.svg)
 
 **Product Leader | Senior Technical Product Manager | Product Owner | AI & Agentic Workflows | Financial Services | AI‑Native SAFe®**
 
