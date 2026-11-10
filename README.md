@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abiola (Abi) Sanni, SAFe®
+# Abiola (Abi) Sanni
 
 **Product Leader | Senior Technical Product Manager | Product Owner | AI & Agentic Workflows | Financial Services | AI‑Native SAFe®**
 
@@ -17,7 +17,7 @@
 
 Technical Product Manager with 10+ years in financial services (asset management, ratings, regulation and private credit) and a Chemical Engineering with Business Management background.
 
-I don't come from a coding background. I build with AI: Claude Code, Lovable, Streamlit and public APIs are my toolkit, and this profile is where I ship the things I build. Goal: become a competent **AI Product Builder**, not just a PM who writes about AI.
+I don't come from a coding background. I build with AI: Claude Code, Lovable, Streamlit and public APIs are my toolkit, and this profile is where I ship the things I build. Goal: become a competent AI Product Builder, not just a PM who writes about AI.
 
 ---
 
