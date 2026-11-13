@@ -4,7 +4,7 @@
 
 **Product Leader | Senior Technical Product Manager | Product Owner | AI & Agentic Workflows | Financial Services | AI‑Native SAFe®**
 
-📍 London Area, United Kingdom &nbsp;·&nbsp; 🏢 Columbia Threadneedle Investments
+📍 London Area, United Kingdom &nbsp;·&nbsp; 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abiolasanni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiolasanni)
 [![GitHub followers](https://img.shields.io/github/followers/abisanzz?style=for-the-badge&logo=github&label=Follow&color=0A66C2)](https://github.com/abisanzz)
